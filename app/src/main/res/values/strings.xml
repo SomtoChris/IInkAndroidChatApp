@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IInk</string>
+    <string name="todo">TODO</string>
+    <string name="iinks">IInks</string>
+    <string name="welcome_back">Welcome Back to IInk..</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New IInk Account</string>
+    <string name="set_image">Set Image</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_new_account_two">Create New Account</string>
+    <string name="sign_into_existing_account">Sign Into existing Account</string>
+    <string name="signout">SignOut</string>
+    <string name="users_list">IInk Users List</string>
+    <string name="new_chat">New Chat</string>
+    <string name="say_something">Say something...</string>
+    <string name="online">Online</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817063149777",
+    "project_id": "iinks-somsblox",
+    "storage_bucket": "iinks-somsblox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817063149777:android:3f618cd11d7c5e260485f0",
+        "android_client_info": {
+          "package_name": "com.somsblox.iinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817063149777-j6jk6voim3hrdli0boero04br5liluta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-06lr1sYbKPzqX1_PME4r654Ofg6ZVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817063149777-j6jk6voim3hrdli0boero04br5liluta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
